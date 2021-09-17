@@ -1,0 +1,4 @@
+This is a text file with my name, Marcus FIsher, in it
+
+Each student is to clone this repo, pull down the latest, add a text file with their name in it, commit it, and push it.  
+When everyone is done they need to pull down the latest version of the repo so that they have all the other students names
